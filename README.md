@@ -1,2 +1,0 @@
-# Aeroplann
-GitHub Pages
